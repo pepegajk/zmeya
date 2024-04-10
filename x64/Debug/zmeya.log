@@ -1,0 +1,36 @@
+﻿  zmeya.cpp
+C:\Users\Вера\Desktop\для шарпа\zmeya\zmeya\zmeya.cpp(20,16): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Вера\Desktop\для шарпа\zmeya\zmeya\zmeya.cpp(70,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\Вера\Desktop\для шарпа\zmeya\zmeya\zmeya.cpp(91,41): warning C4838: Преобразование из "_Ty" в "SHORT" требует сужающего преобразования.
+          with
+          [
+              _Ty=int
+          ]
+C:\Users\Вера\Desktop\для шарпа\zmeya\zmeya\zmeya.cpp(91,56): warning C4838: Преобразование из "_Ty" в "SHORT" требует сужающего преобразования.
+          with
+          [
+              _Ty=int
+          ]
+C:\Users\Вера\Desktop\для шарпа\zmeya\zmeya\zmeya.cpp(102,38): warning C4838: Преобразование из "_Ty" в "SHORT" требует сужающего преобразования.
+          with
+          [
+              _Ty=int
+          ]
+C:\Users\Вера\Desktop\для шарпа\zmeya\zmeya\zmeya.cpp(102,49): warning C4838: Преобразование из "_Ty" в "SHORT" требует сужающего преобразования.
+          with
+          [
+              _Ty=int
+          ]
+C:\Users\Вера\Desktop\для шарпа\zmeya\zmeya\zmeya.cpp(107,42): warning C4838: Преобразование из "_Ty" в "SHORT" требует сужающего преобразования.
+          with
+          [
+              _Ty=int
+          ]
+C:\Users\Вера\Desktop\для шарпа\zmeya\zmeya\zmeya.cpp(107,53): warning C4838: Преобразование из "_Ty" в "SHORT" требует сужающего преобразования.
+          with
+          [
+              _Ty=int
+          ]
+C:\Users\Вера\Desktop\для шарпа\zmeya\zmeya\zmeya.cpp(121,31): warning C4838: Преобразование из "int" в "SHORT" требует сужающего преобразования.
+C:\Users\Вера\Desktop\для шарпа\zmeya\zmeya\zmeya.cpp(121,39): warning C4838: Преобразование из "int" в "SHORT" требует сужающего преобразования.
+  zmeya.vcxproj -> C:\Users\Вера\Desktop\для шарпа\zmeya\x64\Debug\zmeya.exe
